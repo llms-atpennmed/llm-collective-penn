@@ -14,6 +14,10 @@ As generative AI continues to grow, the **LLM Collective @Penn** is a space to s
 
 ---
 
+## BiWeekly Meeting
+We meet on Zoom BiWeekly at 2-3 pm EST. For invite please reach out to singhalp@pennmedicine.upenn.edu
+
+
 ## Repository Structure
 This repository serves as a centralized hub for all activities and resources of the **LLM Collective @Penn**:
 

@@ -1,7 +1,7 @@
 # GenAI Collective @PennMed
 
 ## Mission Statement
-**Genai Collective @PennMed**  
+**GenAI Collective @PennMed**  
 We are an open-source ecosystem at Penn dedicated to fostering shared learning and exploration of generative AI. Our community is intentionally interdisciplinary, bringing together clinicians, developers, researchers, scientists, and trainees to advance the frontiers of generative AI in medicine.
 
 Our mission is to:  

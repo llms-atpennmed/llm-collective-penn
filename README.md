@@ -1,7 +1,7 @@
-# LLM Collective @Penn
+# GenAI Collective @PennMed
 
 ## Mission Statement
-**LLM Collective @Penn**  
+**Genai Collective @PennMed**  
 We are an open-source ecosystem at Penn dedicated to fostering shared learning and exploration of generative AI. Our community is intentionally interdisciplinary, bringing together clinicians, developers, researchers, scientists, and trainees to advance the frontiers of generative AI in medicine.
 
 Our mission is to:  
@@ -10,7 +10,7 @@ Our mission is to:
 - **Present and Refine Ideas**: Offer a platform for members to share their work, receive feedback, and troubleshoot challenges in a supportive environment.  
 - **Develop Practical Applications**: Design and build applications, workflows, and tools that bring the power of generative AI into real-world medical and research contexts.  
 
-As generative AI continues to grow, the **LLM Collective @Penn** is a space to stay ahead of the curve, work collaboratively, and drive impactful innovation.
+As generative AI continues to grow, the **GenAI Collective @PennMed** is a space to stay ahead of the curve, work collaboratively, and drive impactful innovation.
 
 ---
 
@@ -19,7 +19,7 @@ We meet on Zoom BiWeekly at 2-3 pm EST. For invite please reach out to singhalp@
 
 
 ## Repository Structure
-This repository serves as a centralized hub for all activities and resources of the **LLM Collective @Penn**:
+This repository serves as a centralized hub for all activities and resources of the **GenAI Collective @PennMed**:
 
 - **`blog/`**  
   Posts about what works, what doesnt work, troubleshooting, new ideas, etc. from folks to share with greater community
@@ -42,7 +42,7 @@ This repository serves as a centralized hub for all activities and resources of 
 ---
 
 ## How to Contribute
-We welcome contributions from all members of the **LLM Collective @Penn**! Here’s how you can get involved:
+We welcome contributions from all members of the **GenAI Collective @PennMed**! Here’s how you can get involved:
 1. **Submit Paper Summaries**: Add a new Markdown file to the `papers/` folder for papers you reviewed on your own or in a group meeting
 2. **Walk through a Tutorial**: Share your knowledge by adding step-by-step guides to the `tutorials/` folder, if sharing someone else's please cite
 3. **Present Your Work**: Upload your slides or materials to the `presentations/` folder
